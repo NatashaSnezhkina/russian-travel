@@ -22,6 +22,7 @@
       width: 440px;
       height: 440px;
   }
+}
 
 @media screen and (min-width: 1280px) {
   .place__image {
