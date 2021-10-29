@@ -1,5 +1,5 @@
 .header {
-    width: cacl(100%-padding);
+    width: calc(100%-48px*2);
     /*max-width: 1184px;*/
     height: 52px;
     background-color: #2A2C2F;
@@ -20,6 +20,7 @@
     .header {
         padding-right: 24px;
         padding-left: 24px;
+        width: calc(100%-24px*2);
     }
 }
 
@@ -29,5 +30,6 @@
         padding-left: 16px;
         margin-top: 16px;
         height: 42px;
+        width: calc(100%-16px*2);
     }
 }

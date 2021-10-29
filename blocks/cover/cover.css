@@ -10,12 +10,14 @@
       width: 100%;
       height: 640px;
   }
+}
 
  @media screen and (max-width: 768px) {
     .cover {
         width: 100%;
         height: 480px;
     }
+  }
 
 @media screen and (max-width: 320px) {
   .cover {
@@ -23,3 +25,4 @@
       width: 100%;
       height: 200px;
   }
+}

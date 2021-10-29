@@ -18,13 +18,16 @@
   .photo-grid {
       width: 720px;
   }
+}
 
 @media screen and (min-width: 1024px) {
   .photo-grid {
       width: 928px;
   }
+}
 
 @media screen and (min-width: 1280px) {
-      .photo-grid {
-          width: 1184px;
-      }
+  .photo-grid {
+      width: 1184px;
+  }
+}
