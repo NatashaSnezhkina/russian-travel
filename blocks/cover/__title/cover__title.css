@@ -23,6 +23,14 @@
     }
   }
 
+@media screen and (max-width: 450px) {
+  .cover__title {
+    margin: 115px 0 0 0;
+    font-size: 52px;
+    line-height: 106%;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .cover__title {
     margin: 33px 0 0 0;
@@ -30,3 +38,5 @@
     line-height: 35px;
   }
 }
+
+
