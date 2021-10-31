@@ -10,7 +10,7 @@
   /*border: 1px solid red;*/
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 750px) {
   .footer__copyright {
     justify-self: start;
   }
