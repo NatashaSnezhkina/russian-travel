@@ -1,25 +1,25 @@
-# Проект: Путешествие по России
+# Project: «Travelling around Russia»
 
-### Обзор
-* Общая информация
-* Технологии
-* Настройки
-* Ссылка на сайт
+### Content
+* [General](#General)
+* [Technologies](#Technologies)
+* [Settings](#Settings)
+* [Link](#Link)
 
-**Общая информация**
+**General**
 
-Проект рассказывает про красивые места нашей страны, как до них добраться и что можно делать во время путешествия.
+Project about places in Russia worth to visit.
 
-**Технологии**
-* flexbox верстка
-* grid
-* Адаптивная верстка
-* Организация файлов выполнена по БЭМ Nested
+**Technologies**
+* Flexbox layout
+* Pixel perfect
+* Grid
+* BEM Nested
 
-**Настройки**
+**Settings**
 * HTML 5
 * CSS
 
-**Ссылка на сайт** 
+**Link** 
 
 https://natashasnezhkina.github.io/russian-travel/
