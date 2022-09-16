@@ -1,4 +1,4 @@
-# Project: «Travelling around Russia»
+# Project: «Travel in Russia»
 
 ### Content
 * [General](#General)
